@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="projekt_lab.BazaPlikowa">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABBAAAAAAACECAAAAAAIAIAAACAAAAAgAAAEAA=</HashCode>
+      <FileName>BazaPlikowa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.MenedzerOcen">
+    <Position X="8.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAAAAAAAAAQAAAgAAACAAAAACAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MenadzerOcen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Nauczyciel">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nauczyciel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Ocena">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAgAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Ocena.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Program">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAABAAAAEA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Przedmiot">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Przedmiot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Student">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_lab.Uzytkownik">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAQAAAAA=</HashCode>
+      <FileName>Uzytkownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
